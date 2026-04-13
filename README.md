@@ -1,4 +1,3 @@
-
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/Andriana444/wnba_prediction_model/badge)](https://scorecard.dev/viewer/?uri=github.com/Andriana444/wnba_prediction_model)
 
 # 🏀 WNBA Draft First-Round Prediction Model

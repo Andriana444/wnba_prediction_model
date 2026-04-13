@@ -10,7 +10,9 @@ on:
     branches: [ "main" ]
   workflow_dispatch:
 
-permissions: read-all
+permissions:
+  contents: read
+  security-events: write
 
 jobs:
   analysis:
